@@ -138,3 +138,5 @@ new ProtocolModel.Base
 ```
 
 ## In-App Images
+![Home](https://github.com/omansak/playhup/blob/master/Playhub/Images/Home.PNG)
+![Game Panel](https://github.com/omansak/playhup/blob/master/Playhub/Images/Game%20Lobby.PNG)
