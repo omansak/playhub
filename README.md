@@ -1,5 +1,5 @@
 # Playhub
-A sample Server/Client game writen with C#. This application uses custom message protocol on TCPClient & TCPListener with asynchronous
+A sample Server/Client game writen with C#. This application uses a custom message protocol on TCPClient & TCPListener with asynchronous
 
 ## Features
 - Create/Join Lobby
