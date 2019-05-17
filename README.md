@@ -12,7 +12,7 @@ A sample Server/Client game writen with C#. This application uses a custom messa
 ### Prerequisites
 * Newtonsoft.Json
 
-### Building in Android Studio
+### Building in Visual Studio
 1. Download and install the latest version of [Visual Studio](https://visualstudio.microsoft.com/tr/).
 2. In Project Folder. open "Playhub.sln"
 3. Browse to the location of the project, and double-click on the project directory.
